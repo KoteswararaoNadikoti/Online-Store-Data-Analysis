@@ -8,38 +8,46 @@ Welcome to the **Online Store Data Analysis** repository! This README provides a
 
 **Vrindha store** wants to create an annual sales report for 2022. So that, Vrindha can understand their customers and grow more sales in 2023.
 
+<br/>
+
 ## Folder Structure
 
 The repository structure is organized as follows:
 
-- `documents/`: Contains all the written documents related to the project.
-- `resources/`: Includes additional resources, such as research materials, references, etc.
+- [Document](https://github.com/KoteswararaoNadikoti/Online-Store-Data-Analysis/blob/main/Online%20store%20data%20analysis.pdf/) : Contains all the written documents related to the project.
+- [Dashboard](https://github.com/KoteswararaoNadikoti/Online-Store-Data-Analysis/blob/main/Online%20Store%20Data%20Analysis.xlsx) : Includes additional resources, such as Raw Data, Dashboard, references, etc.
+
+<br/>
 
 ## Objectives
 
-The primary objectives of this writing project are:
+The primary objectives of this Online Store Data Analysis are:
 
-- [Objective 1]
-- [Objective 2]
-- [Objective 3]
+- Analyze sales data to understand trends, patterns, and fluctuations in sales over time. Identify peak sales periods, bestselling products, and underperforming categories.
+- Evaluate the effectiveness of marketing campaigns, promotions, and advertising channels.
+- Segment customers based on demographics, purchasing behavior, or other relevant factors. Understand the preferences and characteristics of different customer segments.
 
-## How to Contribute
+<br/>
 
-Contributions to the project are welcome and can be made in several ways:
+## Insights
 
-1. **Content Creation**: You can contribute by writing new documents, articles, or sections related to the project.
-2. **Editing and Proofreading**: Help improve existing content by editing for clarity, grammar, and consistency.
-3. **Providing Feedback**: Share your thoughts, suggestions, and feedback on the project's content and structure.
-4. **Reporting Issues**: If you encounter any issues or have ideas for improvements, please open an issue in the repository.
+1. Women are more likely to buy compared to men (~65%)
+2. Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
+3. Adult age group (30-49 years) is max contributing (~50%)
+4. Amazon, Flipkart and Myntra channels are max contributing (~80%)
 
-## License
+<br/>
 
-This project is licensed under the [License Name] License. See the [LICENSE](LICENSE) file for details.
+## Final Conclusion
+
+Target women customers of age group (30-49 years) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
+
+<br/>
 
 ## Contact
 
-For questions or further information about the project, please contact [Your Name] at [your_email@example.com].
+For questions or further information about the project, please contact Koteswara Rao Nadikoti at kotikoteswararao9999@gmail.com .
 
 ---
 
-Thank you for your interest in the [Project Name] project! We look forward to your contributions and feedback.
+Thank you for your interest in the Online Store Data Analysis project! We look forward to your contributions and feedback.
